@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Arco1 : MonoBehaviour
+public class Arco : MonoBehaviour
 {
     public GameObject Sphere;
     public GameObject CubePrefab;
